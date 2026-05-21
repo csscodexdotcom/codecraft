@@ -1,6 +1,3 @@
-# codecraft
-CodeCraft - Free Web Design Agency HTML Website Template
-
 [![Template Preview](screenshot.jpg)](https://csscodexdotcom.github.io/codecraft/)
 
 # CodeCraft
